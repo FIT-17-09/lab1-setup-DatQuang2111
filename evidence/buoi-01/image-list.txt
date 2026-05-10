@@ -1,0 +1,8 @@
+﻿docker : Error response from daemon: Docker Desktop is unable to start
+At C:\Users\Quang Dat\lab1-setup-DatQuang2111\scripts\collect_session01_evidence.ps1:34 char:1
++ docker image ls --format "table {{.Repository}}:{{.Tag}}`t{{.ID}}`t{{ ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Error response ...unable to start:String) [], Remo 
+   teException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
