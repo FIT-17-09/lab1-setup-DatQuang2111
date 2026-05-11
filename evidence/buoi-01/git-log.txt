@@ -1,2 +1,3 @@
-﻿268b070 add deadline
+﻿0d7e9fc Add session 01 environment evidence and fix Windows scripts
+268b070 add deadline
 e14f0e2 Initial commit
