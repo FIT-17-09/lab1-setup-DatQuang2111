@@ -23,8 +23,8 @@
 
 - [x] Đã clone repo lớp.
 - [x] Đã tạo branch Buổi 1.
-- [ ] Đã commit minh chứng Buổi 1.
-- [ ] Đã push lên GitHub.
+- [x] Đã commit minh chứng Buổi 1.
+- [x] Đã push lên GitHub.
 
 ## OBE Evidence
 
