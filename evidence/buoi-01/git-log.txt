@@ -1,3 +1,5 @@
-﻿0d7e9fc Add session 01 environment evidence and fix Windows scripts
+﻿5f815e4 Update checklist with completion status
+d036dd1 Complete session 1 evidence collection
+0d7e9fc Add session 01 environment evidence and fix Windows scripts
 268b070 add deadline
 e14f0e2 Initial commit
